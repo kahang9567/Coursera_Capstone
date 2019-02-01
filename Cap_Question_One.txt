@@ -1,3 +1,5 @@
 Introduction/Business Problem section
+
 The question that this project seeks to answer is to find which neighborhoods in Toronto could offer similar services if I had to move in the around cities, or even between cities in each county of Toronto. 
+
 The target audience of this project would be someone who had to relocate themselves to different cities for some kinds of reason, like relocating jobs. They would like to see and compare the conditions of neighborhoods in around the city so that they can make the best choice. 
